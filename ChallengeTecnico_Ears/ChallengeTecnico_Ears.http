@@ -1,0 +1,6 @@
+@ChallengeTecnico_Ears_HostAddress = http://localhost:4222
+
+GET {{ChallengeTecnico_Ears_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
